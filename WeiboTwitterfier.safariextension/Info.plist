@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.3</string>
+	<string>0.3.1</string>
 	<key>CFBundleVersion</key>
-	<string>4</string>
+	<string>5</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -35,6 +35,8 @@
 			<string>WeiboTwitterfier.css</string>
 		</array>
 	</dict>
+	<key>Description</key>
+	<string>Remove distractions from Sina Weibo's timeline</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
