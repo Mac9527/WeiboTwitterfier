@@ -10,11 +10,11 @@
             <key>Developer Identifier</key>
             <string>CZDGR5BU6D</string>
             <key>CFBundleVersion</key>
-            <string>4</string>
+            <string>5</string>
             <key>CFBundleShortVersionString</key>
-            <string>0.3</string>
+            <string>0.3.1</string>
             <key>URL</key>
-            <string>https://github.com/Elethom/WeiboTwitterfier/releases/download/0.3/WeiboTwitterfier.safariextz</string>
+            <string>https://github.com/Elethom/WeiboTwitterfier/releases/download/0.3.1/WeiboTwitterfier.safariextz</string>
         </dict>
     </array>
 </dict>
