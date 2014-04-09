@@ -6,7 +6,6 @@
     <body>
         <script type="text/javascript">
             safari.application.addEventListener("message", function(event) {
-                console.log('aewfa');
                 if (event.name === "getSettings") {
                     event.target.page.dispatchMessage("setSettings", {
                         two_column_mode: safari.extension.settings.getItem("two_column_mode")
